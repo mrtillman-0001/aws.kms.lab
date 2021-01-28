@@ -1,0 +1,25 @@
+{
+  "name": "aws.kms.lab",
+  "version": "1.0.0",
+  "description": "single control point to manage encryption keys",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-kms": "^3.3.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtillman-0001/aws.kms.lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrtillman-0001/aws.kms.lab/issues"
+  },
+  "homepage": "https://github.com/mrtillman-0001/aws.kms.lab#readme"
+}
